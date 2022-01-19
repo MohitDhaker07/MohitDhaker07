@@ -8,9 +8,6 @@ My name is Mohit Dhaker. I'm a CSE student at VIT Bhopal University. An enthusia
 Currently I'm working on building new astronomy club at VIT Bhopal university. 
 
 ### 💻 I'm currently learning
-- Learning Full stack development 
+- Full stack development 
 - Python 
-- Building Club AstroVIT
-
-
-
+- Machine learning

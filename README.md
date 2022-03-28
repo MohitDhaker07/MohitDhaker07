@@ -5,7 +5,6 @@
 ### Hello, Folks 👋
 
 My name is Mohit Dhaker. I'm a CSE student at VIT Bhopal University. An enthusiast, Curious learner and an aspiring Software developer.  
-Currently I'm working on building new astronomy club at VIT Bhopal university. 
 
 ### 💻 I'm currently learning
 - Full stack development 

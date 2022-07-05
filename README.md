@@ -7,6 +7,7 @@
 My name is Mohit Dhaker. I'm a CSE student at VIT Bhopal University. An enthusiast, Curious learner and an aspiring Software developer.  
 
 ### 💻 I'm currently learning
-- Full stack development 
+- Full stack web development 
 - Python 
 - Machine learning
+- Blockchain

@@ -21,7 +21,7 @@ I am a Full-stack Web Developer who is exploring Blockchain, while facilitating 
 ---
 
 
-<!-- ### MY TECH STACK:
+ ### MY TECH STACK:
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -40,9 +40,9 @@ I am a Full-stack Web Developer who is exploring Blockchain, while facilitating 
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohitDhaker07&theme=white) -->
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohitDhaker07&theme=white) 
 
-<!-- ![Wave](assets/bottom_header.svg) -->
+![Wave](assets/bottom_header.svg) 
 
 
 
@@ -52,4 +52,4 @@ I am a Full-stack Web Developer who is exploring Blockchain, while facilitating 
 [instagram]: 
 [linkedin]:
 [medium]: 
- -->
+

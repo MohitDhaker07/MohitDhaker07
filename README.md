@@ -9,11 +9,11 @@
 I am a Full-stack Web Developer who is exploring Blockchain, while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
 
- :books:  I’m currently learning Data Structures and Algorithm
+ :books:  I’m currently learning Data Structures and Algorithm, Blockchain Development and Data Analysis. 
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> 
  
- 👯 I’m looking to collaborate for a Web3 project.
+ 👯 I’m looking to collaborate for a Web3 project.  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
  💬 Ask me about Full Stack Development, Blockchain, and any Tech-related stuff.
 
@@ -21,7 +21,7 @@ I am a Full-stack Web Developer who is exploring Blockchain, while facilitating 
 ---
 
 
- ### MY TECH STACK:
+<!--  ### MY TECH STACK:
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -51,5 +51,5 @@ I am a Full-stack Web Developer who is exploring Blockchain, while facilitating 
 [youtube]: 
 [instagram]: 
 [linkedin]:
-[medium]: 
+[medium]:  -->
 

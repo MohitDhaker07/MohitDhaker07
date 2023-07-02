@@ -9,7 +9,7 @@
 I am a Full-stack Web Developer who is exploring Blockchain, while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
 
- :books:  I’m currently learning Data Structures and Algorithm, Blockchain Development and Data Analysis. 
+ :books:  I’m currently learning Blockchain Development and Data Analysis. 
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> 
  

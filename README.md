@@ -18,6 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohitDhaker07&show_icons=true&theme=dracula&locale=en" alt="MohitDhaker07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohitDhaker07&theme=dark" alt="MohitDhaker07" /></p>
+
 
 

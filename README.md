@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a tech enthusiast, problem-solver, and lifelon
 
 ### 📈 Let's Connect!  
 If you're interested in collaborating on exciting projects or just want to chat about tech, feel free to reach out:  
-- 📧 **Email**: [Your Email Address]  
-- 💼 **LinkedIn**: [Your LinkedIn URL]  
-- 🌐 **Portfolio**: [Your Portfolio URL]  
+- 📧 **Email**: mohit.dhaker04@gmail.com  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/mohit-dhaker-1a71b91b8/
+- 🌐 **Portfolio**: NA   
 
 Let’s turn ideas into reality and make an impact together! 🚀  

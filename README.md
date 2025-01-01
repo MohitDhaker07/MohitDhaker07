@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast, problem-solver, and lifelon
 ---
 
 ### 🌟 Featured Skills:
-- **Programming**: Python, SQL, JavaScript, [add others you're proficient in].  
+- **Programming**: Python, SQL, JavaScript.  
 - **Technologies**: AI/ML frameworks (TensorFlow, PyTorch), Blockchain Development, Data Analysis Tools.  
 - **Development**: API Development, Cloud Services, Scalable System Design.  
 
